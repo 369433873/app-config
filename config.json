@@ -5,7 +5,7 @@
       "title": "雪山萌犬",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog_depth.jpg"
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog_depth.jpg",
       "is4D": true
     },
     {
@@ -13,7 +13,7 @@
       "title": "蜘蛛侠",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/Spiderman.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/Spiderman.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/Spiderman_depth.jpg"
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/Spiderman_depth.jpg",
       "is4D": true
     },
     {
@@ -21,7 +21,7 @@
       "title": "爆破",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/demo.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/demo.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/demo_depth.jpg"
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/demo_depth.jpg",
       "is4D": false
     },
     {
@@ -29,7 +29,7 @@
       "title": "圣诞老人",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg"
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
       "is4D": true
     }
   ]
