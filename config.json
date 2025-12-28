@@ -1,14 +1,1 @@
-[
-  {
-    "title": "Cyberpunk City",
-    "thumb": "http://.../thumb1.jpg",
-    "color": "http://.../color1.jpg",
-    "depth": "http://.../depth1.jpg"
-  },
-  {
-    "title": "Cute Dog",
-    "thumb": "http://.../thumb2.jpg",
-    "color": "http://.../color2.jpg",
-    "depth": "http://.../depth2.jpg"
-  }
-]
+{ "ok": true }
