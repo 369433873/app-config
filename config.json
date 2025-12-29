@@ -2,110 +2,74 @@
   "wallpapers": [
     {
       "id": "1001",
-      "title": "雪山萌犬",
       "category": "动物", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog_depth.jpg",
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
       "is4D": true
     },
     {
       "id": "1002",
-      "title": "蜘蛛侠",
       "category": "动漫", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/Spiderman.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/Spiderman.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/Spiderman_depth.jpg",
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
       "is4D": true
     },
     {
       "id": "1003",
-      "title": "爆破",
-      "category": "动物", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/demo.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/demo.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/demo_depth.jpg",
-      "is4D": false
+      "category": "风景", 
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_c.jpg",
+      "is4D": true
     },
     {
       "id": "1004",
-      "title": "圣诞老人",
-      "category": "风景", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
+      "category": "抽象", 
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
       "is4D": true
     },
     {
       "id": "1005",
-      "title": "圣诞老人",
-      "category": "动物", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
+      "category": "动漫", 
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
       "is4D": true
     },
     {
       "id": "1006",
-      "title": "背影",
-      "category": "抽象", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/0001_a.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/0001_b.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/0001_c.jpg",
+      "category": "动漫", 
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
       "is4D": true
     },
     {
       "id": "1007",
-      "title": "圣诞老人",
-      "category": "动物", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
+      "category": "动漫", 
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
       "is4D": true
     },
     {
       "id": "1008",
-      "title": "圣诞老人",
-      "category": "动物", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
+      "category": "动漫", 
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
       "is4D": true
     },
     {
       "id": "1009",
-      "title": "圣诞老人",
-      "category": "动物", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
-      "is4D": true
-    },
-    {
-      "id": "1010",
-      "title": "圣诞老人",
-      "category": "动物", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
-      "is4D": true
-    },
-        {
-      "id": "1011",
-      "title": "雪山萌犬",
-      "category": "动物", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog_depth.jpg",
-      "is4D": true
-    },
-    {
-      "id": "1012",
-      "title": "圣诞老人",
-      "category": "动物", 
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
+      "category": "动漫", 
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
       "is4D": true
     }
   ]
