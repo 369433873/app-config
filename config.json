@@ -3,6 +3,7 @@
     {
       "id": "1001",
       "title": "雪山萌犬",
+      "category": "动物", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/dog_depth.jpg",
@@ -11,6 +12,7 @@
     {
       "id": "1002",
       "title": "蜘蛛侠",
+      "category": "动漫", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/Spiderman.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/Spiderman.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/Spiderman_depth.jpg",
@@ -19,6 +21,7 @@
     {
       "id": "1003",
       "title": "爆破",
+      "category": "动物", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/demo.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/demo.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/demo_depth.jpg",
@@ -27,6 +30,7 @@
     {
       "id": "1004",
       "title": "圣诞老人",
+      "category": "风景", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
@@ -35,6 +39,7 @@
     {
       "id": "1005",
       "title": "圣诞老人",
+      "category": "动物", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
@@ -43,6 +48,7 @@
     {
       "id": "1006",
       "title": "背影",
+      "category": "抽象", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/0001_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/0001_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/0001_c.jpg",
@@ -51,6 +57,7 @@
     {
       "id": "1007",
       "title": "圣诞老人",
+      "category": "动物", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
@@ -59,6 +66,7 @@
     {
       "id": "1008",
       "title": "圣诞老人",
+      "category": "动物", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
@@ -67,6 +75,7 @@
     {
       "id": "1009",
       "title": "圣诞老人",
+      "category": "动物", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
@@ -75,6 +84,7 @@
     {
       "id": "1010",
       "title": "圣诞老人",
+      "category": "动物", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
@@ -83,6 +93,7 @@
     {
       "id": "1011",
       "title": "圣诞老人",
+      "category": "动物", 
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4d/santa_depth.jpg",
