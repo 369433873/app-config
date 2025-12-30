@@ -2,7 +2,7 @@
   "wallpapers": [
     {
       "id": "1001",
-      "category": "动物", 
+      "category": "动物",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
@@ -10,7 +10,7 @@
     },
     {
       "id": "1002",
-      "category": "动漫", 
+      "category": "动漫",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
@@ -18,7 +18,7 @@
     },
     {
       "id": "1003",
-      "category": "风景", 
+      "category": "风景",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_c.jpg",
@@ -26,7 +26,7 @@
     },
     {
       "id": "1004",
-      "category": "抽象", 
+      "category": "抽象",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
@@ -34,7 +34,7 @@
     },
     {
       "id": "1005",
-      "category": "动漫", 
+      "category": "动漫",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
@@ -42,7 +42,7 @@
     },
     {
       "id": "1006",
-      "category": "动漫", 
+      "category": "动漫",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
@@ -50,7 +50,7 @@
     },
     {
       "id": "1007",
-      "category": "动漫", 
+      "category": "动漫",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
@@ -58,7 +58,7 @@
     },
     {
       "id": "1008",
-      "category": "动漫", 
+      "category": "动漫",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
@@ -66,14 +66,15 @@
     },
     {
       "id": "1009",
-      "category": "动漫", 
+      "category": "动漫",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
       "is4D": true
     },
+    {
       "id": "1010",
-      "category": "动物", 
+      "category": "动物",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
@@ -81,7 +82,7 @@
     },
     {
       "id": "1011",
-      "category": "动漫", 
+      "category": "动漫",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
@@ -89,14 +90,15 @@
     },
     {
       "id": "1012",
-      "category": "风景", 
+      "category": "风景",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_c.jpg",
       "is4D": true
     },
-          "id": "1013",
-      "category": "动物", 
+    {
+      "id": "1013",
+      "category": "动物",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
@@ -104,7 +106,7 @@
     },
     {
       "id": "1014",
-      "category": "动漫", 
+      "category": "动漫",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
@@ -112,14 +114,15 @@
     },
     {
       "id": "1015",
-      "category": "风景", 
+      "category": "风景",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_c.jpg",
       "is4D": true
     },
-          "id": "1016",
-      "category": "动物", 
+    {
+      "id": "1016",
+      "category": "动物",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
@@ -127,7 +130,7 @@
     },
     {
       "id": "1017",
-      "category": "动漫", 
+      "category": "动漫",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
@@ -135,14 +138,15 @@
     },
     {
       "id": "1018",
-      "category": "风景", 
+      "category": "风景",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_c.jpg",
       "is4D": true
     },
-          "id": "1019",
-      "category": "动物", 
+    {
+      "id": "1019",
+      "category": "动物",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0001_c.jpg",
@@ -150,7 +154,7 @@
     },
     {
       "id": "1020",
-      "category": "动漫", 
+      "category": "动漫",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
@@ -158,7 +162,7 @@
     },
     {
       "id": "1021",
-      "category": "风景", 
+      "category": "风景",
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_a.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_b.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0003_c.jpg",
