@@ -162,10 +162,18 @@
     },
     {
       "id": "1021",
+      "category": "动漫",
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0002_c.jpg",
+      "is4D": true
+    },
+    {
+      "id": "1022",
       "category": "风景",
-      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0009_a.jpg",
-      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0009_b.jpg",
-      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/0009_c.jpg",
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/1234.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/12345.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/123456.jpg",
       "is4D": true
     }
   ]
