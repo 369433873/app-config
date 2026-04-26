@@ -182,6 +182,14 @@
       "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/1234.jpg",
       "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/12345.jpg",
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/1234567.jpg",
+      "is4D": true    
+    },
+    {
+      "id": "1024",
+      "category": "风景",
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/345a.jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/345b.jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/4D/345c.jpg",
       "is4D": true
     }
   ]
