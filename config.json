@@ -8,6 +8,30 @@
       "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/3D/chouxiang/Depth_chou%20(1).jpg",
       "is4D": true
     },
+	    {
+      "id": "1002",
+      "category": "动物",
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/3D/dongwu/original_Depth_dong%20(1).jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/3D/dongwu/dong%20(1).jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/3D/dongwu/Depth_dong%20(1).jpg",
+      "is4D": true
+    },
+	    {
+      "id": "1003",
+      "category": "动漫",
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/3D/dongman/original_Depth_d%20(1).jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/3D/dongman/d%20(1).jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/3D/dongman/Depth_d%20(1).jpg",
+      "is4D": true
+    },
+    {
+      "id": "1004",
+      "category": "风景",
+      "thumbUrl": "https://ik.imagekit.io/parallaxwallpaper/3D/fengjing/original_Depth_feng%20(1).jpg",
+      "colorUrl": "https://ik.imagekit.io/parallaxwallpaper/3D/fengjing/feng%20(1).jpg",
+      "depthUrl": "https://ik.imagekit.io/parallaxwallpaper/3D/fengjing/Depth_feng%20(1).jpg",
+      "is4D": true
+    },
 
     {
       "id": "1028",
