@@ -1,4 +1,10 @@
 {
+  "ads": {
+	    "banner": true,
+	    "appOpen": true,
+	    "interstitial": true,
+	    "native": true
+	  },
   "wallpapers": [
     {
       "id": "1001",
